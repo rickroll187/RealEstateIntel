@@ -1,0 +1,19 @@
+# Python
+backend/.venv/
+.venv/
+venv/
+__pycache__/
+
+# Node
+node_modules/
+.next/
+dist/
+build/
+
+# Rust/Tauri
+desktop/src-tauri/target/
+target/
+
+# env
+.env
+*.log
